@@ -1,0 +1,724 @@
+2023-11-02 15:19:02.335 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Kunde inte ladda tillståndet: org.example.model.ProductionState; local class incompatible: stream classdesc serialVersionUID = -7257011604971046466, local class serialVersionUID = -6236679297843920841
+2023-11-02 15:19:09.594 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:19:16.319 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 1
+2023-11-02 15:19:16.319 [Thread-12] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 6 sekunder.
+2023-11-02 15:19:16.320 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:16.533 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 2
+2023-11-02 15:19:16.533 [Thread-13] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:19:16.534 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:16.718 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:19:16.719 [Thread-14] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:19:16.720 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:16.918 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:19:16.919 [Thread-15] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:19:16.921 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:17.119 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:19:17.119 [Thread-16] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 4 sekunder.
+2023-11-02 15:19:17.120 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:17.284 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 6
+2023-11-02 15:19:17.284 [Thread-17] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:19:17.285 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:17.467 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 7
+2023-11-02 15:19:17.467 [Thread-18] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:19:17.468 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:17.631 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 8
+2023-11-02 15:19:17.631 [Thread-19] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:19:17.632 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:17.724 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:17.724 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:17.815 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 9
+2023-11-02 15:19:17.815 [Thread-20] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:19:17.815 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.003 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 10
+2023-11-02 15:19:18.003 [Thread-21] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:19:18.004 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.185 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 11
+2023-11-02 15:19:18.185 [Thread-22] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:19:18.186 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.367 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 12
+2023-11-02 15:19:18.367 [Thread-23] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:19:18.368 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.538 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:18.540 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:18.553 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 13
+2023-11-02 15:19:18.553 [Thread-24] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:19:18.553 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.730 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:18.731 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:18.750 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 14
+2023-11-02 15:19:18.750 [Thread-25] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:19:18.750 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:18.933 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 15
+2023-11-02 15:19:18.933 [Thread-26] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 4 sekunder.
+2023-11-02 15:19:18.934 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:19.116 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 16
+2023-11-02 15:19:19.116 [Thread-27] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:19:19.116 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:19.315 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 17
+2023-11-02 15:19:19.315 [Thread-28] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:19:19.316 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:19.597 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 100.0%
+2023-11-02 15:19:19.701 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 18
+2023-11-02 15:19:19.701 [Thread-29] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:19:19.703 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:19:19.732 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:19.733 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.542 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.544 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.707 [Thread-29] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.713 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.739 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:20.739 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.126 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.127 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.717 [Thread-29] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.718 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.744 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:21.745 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.121 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.123 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.326 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.327 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.473 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.546 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.722 [Thread-29] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.750 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:22.935 [Thread-26] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:23.371 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:23.728 [Thread-29] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:23.756 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:24.552 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:19:29.598 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 19.148936170212767%
+2023-11-02 15:19:30.385 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 17
+2023-11-02 15:19:30.386 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:30.566 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 16
+2023-11-02 15:19:30.566 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:30.768 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 15
+2023-11-02 15:19:30.769 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:30.915 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 14
+2023-11-02 15:19:30.916 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:31.151 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 13
+2023-11-02 15:19:31.152 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:31.315 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 12
+2023-11-02 15:19:31.315 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:31.482 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 11
+2023-11-02 15:19:31.482 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:31.665 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 10
+2023-11-02 15:19:31.666 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:31.832 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 9
+2023-11-02 15:19:31.832 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:32.032 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 8
+2023-11-02 15:19:32.032 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:32.249 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 7
+2023-11-02 15:19:32.249 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:32.432 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 6
+2023-11-02 15:19:32.432 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:32.615 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:19:32.615 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:32.815 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:19:32.816 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:33.033 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:19:33.034 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:33.896 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd sparades till files/production_state.dat
+2023-11-02 15:19:45.144 [Thread-9] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:19:45.144 [Thread-8] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:19:45.144 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:19:45.144 [Thread-7] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:19:50.229 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:19:57.032 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 2
+2023-11-02 15:19:57.032 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:19:59.535 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:19:59.535 [Thread-22] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:19:59.535 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:20:00.231 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:20:00.416 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:20:00.416 [Thread-23] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:20:00.417 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:20:01.186 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:01.229 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:01.542 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:02.235 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:02.548 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:03.188 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:03.237 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:03.550 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:04.243 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:04.552 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:20:06.061 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd sparades till files/production_state.dat
+2023-11-02 15:20:16.957 [Thread-11] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:20:16.957 [Thread-13] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:20:16.957 [Thread-10] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:20:16.957 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:20:16.957 [Thread-12] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:20:20.285 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:20:20.287 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:20:21.394 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:20:23.468 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:20:23.468 [Thread-26] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:20:23.470 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:20:24.184 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:20:24.184 [Thread-27] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:20:24.186 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:20:25.117 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 6
+2023-11-02 15:20:25.117 [Thread-28] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:20:25.119 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:20:31.392 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:20:32.528 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd sparades till files/production_state.dat
+2023-11-02 15:20:40.975 [Thread-10] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:20:40.975 [Thread-12] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 6 sekunder.
+2023-11-02 15:20:40.975 [Thread-13] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:20:40.975 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:20:40.975 [Thread-14] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:20:40.975 [Thread-11] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:20:40.975 [Thread-15] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:20:48.565 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:20:55.232 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:20:55.233 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:20:57.302 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:20:57.303 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:20:58.084 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:20:58.086 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:20:58.564 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:20:58.950 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 2
+2023-11-02 15:20:58.951 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:21:04.701 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:21:04.701 [Thread-28] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:21:04.703 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:21:08.317 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:21:08.317 [Thread-29] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:21:08.318 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:21:08.568 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:21:14.796 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd sparades till files/production_state.dat
+2023-11-02 15:21:23.943 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:21:23.943 [Thread-17] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 6 sekunder.
+2023-11-02 15:21:23.943 [Thread-16] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 6 sekunder.
+2023-11-02 15:21:23.943 [Thread-15] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:21:23.943 [Thread-18] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:21:27.451 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:21:27.451 [Thread-31] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 6 sekunder.
+2023-11-02 15:21:27.453 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:21:31.029 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:21:32.247 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:21:32.248 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:21:32.684 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:21:32.686 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:21:32.967 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 2
+2023-11-02 15:21:32.969 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:21:35.634 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 1
+2023-11-02 15:21:35.636 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:21:41.031 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:21:51.035 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:01.037 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:11.042 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:21.046 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:31.052 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:41.054 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:22:46.748 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 0
+2023-11-02 15:22:46.748 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare togs bort
+2023-11-02 15:22:49.566 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 1
+2023-11-02 15:22:49.566 [Thread-32] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 4 sekunder.
+2023-11-02 15:22:49.567 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:22:51.058 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:24:17.790 [Thread-13] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:24:17.790 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 1
+2023-11-02 15:24:17.796 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:18.367 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 2
+2023-11-02 15:24:18.367 [Thread-14] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:24:18.369 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:18.884 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 3
+2023-11-02 15:24:18.884 [Thread-15] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:24:18.886 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:20.716 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 4
+2023-11-02 15:24:20.716 [Thread-16] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:24:20.717 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:22.373 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 0.0%
+2023-11-02 15:24:22.723 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:22.724 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:23.500 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 5
+2023-11-02 15:24:23.500 [Thread-17] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:24:23.502 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:24.117 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 6
+2023-11-02 15:24:24.117 [Thread-18] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:24:24.118 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:24.651 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 7
+2023-11-02 15:24:24.651 [Thread-19] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:24:24.652 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:24.730 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:24.732 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:25.382 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 8
+2023-11-02 15:24:25.382 [Thread-20] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:24:25.383 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:26.034 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 9
+2023-11-02 15:24:26.034 [Thread-21] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:24:26.036 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:26.507 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:26.509 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:26.658 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:26.660 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:26.681 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 10
+2023-11-02 15:24:26.682 [Thread-22] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:24:26.682 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:26.733 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:26.734 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.124 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.126 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.374 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.375 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.801 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:27.802 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.250 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 11
+2023-11-02 15:24:28.250 [Thread-23] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 4 sekunder.
+2023-11-02 15:24:28.251 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:28.661 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.662 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.739 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.741 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.848 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 12
+2023-11-02 15:24:28.848 [Thread-24] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:24:28.849 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:28.890 [Thread-15] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:28.891 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:29.300 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 13
+2023-11-02 15:24:29.300 [Thread-25] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:24:29.301 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:29.514 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:29.515 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:29.688 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:29.689 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.131 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.133 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.668 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.669 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.745 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:30.746 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.257 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.259 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.306 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.307 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.375 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 100.0%
+2023-11-02 15:24:32.516 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.516 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.673 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.673 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.690 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.751 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:32.751 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:33.132 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:33.138 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:33.521 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.040 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.042 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.388 [Thread-20] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.388 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.678 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.679 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.756 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:34.757 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.312 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.313 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.521 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.522 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.696 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.696 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.855 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:35.855 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.143 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.144 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.264 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.312 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.378 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.394 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.683 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.702 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.758 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:36.759 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:37.803 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:37.804 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.317 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.318 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.527 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.528 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.689 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.690 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.701 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.762 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.807 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.895 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:38.896 [Thread-15] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:39.138 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:39.147 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:39.497 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 14
+2023-11-02 15:24:39.497 [Thread-26] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:24:39.498 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:39.521 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.274 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.275 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.691 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.692 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.770 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:40.771 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.319 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.320 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.530 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.531 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.708 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:41.709 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.044 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.045 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.153 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.153 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.377 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 100.0%
+2023-11-02 15:24:42.697 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.698 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.776 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.776 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.860 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:42.861 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:43.394 [Thread-20] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:43.398 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.278 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.279 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.324 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.325 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.534 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.534 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.703 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.704 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.715 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.764 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:44.781 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:45.139 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:45.158 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:45.326 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:45.383 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:45.384 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:46.707 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:46.709 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:46.783 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:46.783 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.330 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.331 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.534 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 15
+2023-11-02 15:24:47.535 [Thread-27] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:24:47.535 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:47.540 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.540 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.720 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.721 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:47.808 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.034 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 16
+2023-11-02 15:24:48.034 [Thread-28] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 4 sekunder.
+2023-11-02 15:24:48.035 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:24:48.164 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.284 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.331 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.540 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.713 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.727 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.788 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.792 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.899 [Thread-15] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:48.900 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.155 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.327 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.333 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.499 [Thread-26] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.526 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.546 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.547 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.866 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:49.867 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.049 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.050 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.336 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.337 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.546 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.547 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.552 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.694 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.716 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.722 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.793 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.797 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:50.872 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:51.145 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:51.168 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:51.548 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:51.557 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:51.558 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.040 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.042 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.290 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.377 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 97.36842105263158%
+2023-11-02 15:24:52.403 [Thread-20] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.549 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.563 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.722 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.769 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.798 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:52.799 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.047 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.332 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.342 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.550 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.554 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.563 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.566 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:53.728 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.053 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.173 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.389 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.560 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.571 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.727 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.803 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:54.804 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:55.059 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:55.566 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:55.569 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:55.577 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.047 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.064 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.160 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.294 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.347 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.555 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.572 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.581 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.729 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.733 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.808 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.810 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:56.867 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.053 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.065 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.150 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.179 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.338 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.342 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.574 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.577 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.582 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:57.814 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.055 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.066 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.583 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.588 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.735 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.814 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.815 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.902 [Thread-15] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:58.905 [Thread-7] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.067 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.353 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.505 [Thread-26] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.532 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.561 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.580 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.588 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.594 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:24:59.739 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.050 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.072 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.185 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.295 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.589 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.599 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.700 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.740 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.774 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.817 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:00.819 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.074 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.343 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.409 [Thread-20] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.585 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.595 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:01.605 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.079 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.358 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.378 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 93.33333333333333%
+2023-11-02 15:25:02.563 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.599 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.610 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.740 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.746 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.824 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:02.824 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.085 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.156 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.165 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.190 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.391 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.590 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.603 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.616 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:03.870 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.056 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.058 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.090 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.298 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.347 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.608 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.621 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.751 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.827 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:04.829 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.091 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.349 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.359 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.568 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.593 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.614 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.627 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:05.746 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.060 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.096 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.196 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.619 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.627 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.756 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.830 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:06.831 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:07.102 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:07.598 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:07.625 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:07.633 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:07.702 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd sparades till files/production_state.dat
+2023-11-02 15:25:07.816 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:08.061 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:08.107 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:08.302 [Thread-23] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:08.365 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:08.630 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.115 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 17
+2023-11-02 15:25:09.115 [Thread-29] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:09.115 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:25:09.159 [Thread-0] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.280 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 18
+2023-11-02 15:25:09.280 [Thread-30] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:09.280 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:25:09.350 [Thread-3] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.447 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 19
+2023-11-02 15:25:09.447 [Thread-31] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:25:09.448 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:25:09.537 [Thread-2] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.603 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.634 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 20
+2023-11-02 15:25:09.634 [Thread-32] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:25:09.635 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:25:09.635 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.643 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:09.830 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Totalt antal arbetare: 21
+2023-11-02 15:25:09.830 [Thread-33] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:09.830 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - En arbetare lades till
+2023-11-02 15:25:10.116 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.171 [Thread-5] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.414 [Thread-20] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.640 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.649 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.705 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.766 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.840 [Thread-1] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.840 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:10.875 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.060 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.121 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.353 [Thread-4] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.371 [Thread-25] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.572 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.605 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.646 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.654 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.756 [Thread-22] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:11.835 [Thread-33] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:12.067 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:12.127 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:12.206 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:12.379 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 88.0%
+2023-11-02 15:25:13.610 [Thread-12] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:13.654 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:13.665 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:20.587 [Thread-36] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:20.587 [Thread-37] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:20.587 [Thread-34] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:25:20.587 [Thread-35] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:20.587 [Thread-38] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:20.587 [Thread-39] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:20.587 [Thread-40] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:25:20.587 [Thread-41] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:20.588 [Thread-42] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:25:20.588 [Thread-44] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:25:20.588 [Thread-43] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:20.588 [Thread-47] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:25:20.588 [Thread-46] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:20.588 [Thread-45] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:20.588 [Thread-48] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:20.588 [Thread-49] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:20.589 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:25:21.588 [Thread-37] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:21.589 [Thread-53] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:21.591 [Thread-48] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:21.593 [Thread-50] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:21.594 [Thread-45] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:22.382 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 88.88888888888889%
+2023-11-02 15:25:22.593 [Thread-35] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:22.593 [Thread-37] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:22.594 [Thread-50] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:36.508 [Thread-14] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:36.508 [Thread-8] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:36.509 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Produktionstillstånd laddades från files/production_state.dat
+2023-11-02 15:25:36.508 [Thread-10] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:36.508 [Thread-11] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 8 sekunder.
+2023-11-02 15:25:36.508 [Thread-18] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:25:36.508 [Thread-6] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:36.508 [Thread-15] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 10 sekunder.
+2023-11-02 15:25:36.508 [Thread-12] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:36.508 [Thread-13] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 5 sekunder.
+2023-11-02 15:25:36.508 [Thread-9] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 3 sekunder.
+2023-11-02 15:25:36.508 [Thread-16] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:36.508 [Thread-20] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:36.508 [Thread-17] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 2 sekunder.
+2023-11-02 15:25:36.508 [Thread-7] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 7 sekunder.
+2023-11-02 15:25:36.508 [Thread-5] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 9 sekunder.
+2023-11-02 15:25:36.508 [Thread-19] INFO  org.example.utils.LoggerSingleton - Produktionsintervall för senast skapade arbetare: 1 sekunder.
+2023-11-02 15:25:37.513 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:37.514 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:37.515 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:37.516 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:37.517 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.513 [Thread-26] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.517 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.517 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.517 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.518 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:38.519 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är lägre än 10 procent
+2023-11-02 15:25:42.102 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 77.55102040816327%
+2023-11-02 15:25:52.102 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 64.17910447761194%
+2023-11-02 15:26:02.104 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 66.66666666666666%
+2023-11-02 15:26:12.104 [AWT-EventQueue-0] INFO  org.example.utils.LoggerSingleton - Genomsnittligt antal konsumerade enheter av totalen (konsumerade/producerade): 67.1875%
+2023-11-02 15:26:15.567 [Thread-14] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.577 [Thread-9] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.670 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.670 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.671 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.689 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:15.694 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.529 [Thread-18] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.529 [Thread-15] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.530 [Thread-11] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.530 [Thread-29] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.542 [Thread-28] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.543 [Thread-13] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.543 [Thread-30] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.544 [Thread-33] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.550 [Thread-27] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.592 [Thread-26] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.597 [Thread-17] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.600 [Thread-10] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.600 [Thread-6] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.671 [Thread-21] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.672 [Thread-8] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.676 [Thread-24] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.695 [Thread-16] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
+2023-11-02 15:26:16.700 [Thread-19] INFO  org.example.utils.LoggerSingleton - Antalet tillgängliga enheter är högre än 90 procent
