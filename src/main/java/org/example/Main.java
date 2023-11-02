@@ -9,10 +9,8 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
 
-        // Skapa en ny buffer
         Buffer buffer = new Buffer();
 
-        // Skapa användargränssnittet
         ProductionView view = new ProductionView();
 
         // Skapa en ny controller och skicka buffer och view som argument
