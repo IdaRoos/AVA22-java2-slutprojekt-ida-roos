@@ -12,8 +12,6 @@ public class Producer implements Runnable, Serializable {
 
     Random random = new Random();
 
-    int randomNumber;
-
     private int itemsProduced = 0;
 
     public Producer(Buffer buffer) {
@@ -25,7 +23,7 @@ public class Producer implements Runnable, Serializable {
     public void run() {
 
         // Genererar random nummer mellan 1-10 sekunder
-        randomNumber = (random.nextInt(10) + 1)*1000;
+        int randomNumber = (random.nextInt(10) + 1)*1000;
         LoggerSingleton.logInfo("Produktionsintervall för senast skapade arbetare: " + (randomNumber/1000) + " sekunder.");
 
         while (isRunning) {
