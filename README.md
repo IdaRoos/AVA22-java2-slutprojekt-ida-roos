@@ -1,6 +1,5 @@
 # AVA22-java2-slutprojekt-ida-roos
 
-Slutprojekt beskrivning
 Målet med detta projekt var att utveckla en produktionsregulator som dynamiskt övervakar och justerar produktionen och konsumtionen av items/enheter i ett system. Jag valde att lösa uppgiften genom att använda mig av MVC-pattern(Model-View-Controller) för att separera ansvarsområdet mellan presentation, applikationslogik och data.
 
 Model:
